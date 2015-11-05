@@ -1,5 +1,8 @@
 var gulp = require('gulp');
 var gutil = require('gulp-util');
+var path = require('path');
+var less = require('gulp-less');
+var jshint = require('gulp-jshint');
 
 gulp.task('default', function(){
   return gutil.log('Gulp is running')
