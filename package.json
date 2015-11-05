@@ -12,7 +12,8 @@
   },
   "homepage": "https://github.com/jeanleonino/nodebr-jobs#readme",
   "devDependencies": {
+    "bower": "^1.6.5",
     "gulp": "^3.9.0"
   },
- "license": "MIT"
+  "license": "MIT"
 }
